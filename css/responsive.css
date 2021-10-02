@@ -1,0 +1,225 @@
+@media (min-width:1024px) and (max-width:1336px){
+   .header-item{
+      font-size: 12px;
+      margin-left: 16px;
+   }
+   .america-name{
+      font-size: 14px;
+   }
+   .america-heading{
+      font-size: 36px;
+      margin-bottom: 14px;
+   }
+   .america-desc{
+      margin-bottom: 16px;
+      line-height: 1.6;
+      font-size: 14px;
+   }
+   .slider-btn{
+      width: 250px;
+      font-size: 12px;
+   }
+}
+@media (max-width:1023px){
+   .header-list{
+      display: none;
+   }
+   .slider-btn{
+      width: 250px;
+      font-size: 12px;
+   }
+   .america-info{
+      margin-bottom: 50px;
+   }
+   .iner {
+      margin-bottom: 50px;
+   }
+   .iner-heading{
+      margin-bottom: 12px;
+   }
+   .iner-desc{
+      margin-bottom: 25px;
+   }
+   .packges-item{
+      margin-bottom: 40px;
+   }
+   .footer-info{
+      align-items: center;
+      margin: 40px 140px 30px 170px;
+   }
+   .footer-send{
+      justify-content: center;
+      margin-bottom: 30px;
+   }
+   .footer-travel{
+      margin-bottom: 50px;
+   }
+   .footer-blue{
+      margin-bottom: 50px;
+   }
+   .footer{
+      height: 865px;
+   }
+}
+@media (max-width: 735px){
+   .header{
+      flex-direction: column;
+      justify-content: space-evenly;
+      height: 120px;
+   }
+   .banner{
+      margin-top: 60px;
+   }
+   .banner-heading{
+      font-size: 23px;
+   }
+   .banner-desc{
+      font-size: 16px;
+      letter-spacing: 0.5px;
+   }
+   .banner-ip{
+      width: 290px;
+      height: 35px;
+   }
+   .banner-list{
+      flex-direction: column;
+      margin-top: 26px;
+      margin-bottom: 0;
+      
+   }
+   .banner-item{
+      width: 100%;
+      margin-bottom: 20px;
+      height: 100px;
+   }
+   .banner-item__div{
+      width: 100%;
+   }
+   .content-heading{
+      font-size: 30px;
+      margin-bottom: 30px;
+   }
+   .content{
+      margin-bottom: 30px;
+   }
+   .content-list{
+      padding: 0 20px;
+      margin-top: 20px;
+   }
+   .content-col {
+      margin-bottom: 28px;
+   }
+   .slider-heading{
+      font-size: 30px;
+      }
+   .slider-info{
+      flex-direction: column;
+      justify-content: center;
+      margin-right: unset;
+   }
+   .slider-name{
+      flex-direction: column;
+      justify-content: center;
+      margin-right: unset;
+   }
+   .slider-btn{
+      margin-left: unset;
+      margin-top: 20px;
+   }
+   .america {
+      margin-bottom: 30px;
+   }
+   .america-info{
+      text-align: center;
+      padding: 0 20px;
+   }
+   .america-right{
+      height: 550px;
+   }
+   .america-heading{
+      font-size: 28px;
+   }
+   .america-heading span::after{
+      content: "";
+      bottom: calc(0% + 6px);
+   }
+   .america-desc{
+      margin-bottom: 12px;
+      font-size: 14px;
+   }
+   .america-buy1 {
+      font-size: 20px;
+   }
+   .america-buy2 {
+      font-size: 25px;
+   }
+   .america-buy3 {
+      font-size: 16px;
+   }
+   .america-image{
+      height: 176px;
+      overflow: hidden;
+   }
+   .america-image{
+      padding: 0 20px;
+   }
+   .fame-item{
+      background: #14b9d5;
+      width: 100%;
+      padding: 21px 0;
+   }
+   .fame{
+      flex-direction: column;
+      width: 100%;
+      background-color: unset;
+      height: unset;
+      padding: 0 20px;
+      bottom: 0;
+   }
+   .fame-item:not(:last-child):after{
+      display: none;
+   }
+   .iner{
+      margin-bottom: 24px;
+      padding: 0 20px;
+   }
+   .packges{
+      padding: 0 20px;
+      margin-bottom: 4px;
+   }
+   .packges-heading{
+      font-size: 35px;
+      margin-bottom: 24px;
+   }
+   .packges-heading span:before{
+      bottom: calc(0% + 10px);
+   }
+   .footer{
+      padding: 0 20px;
+      height: 1390px;
+   }
+   .footer-info{
+      margin: 40px 0 30px 0;
+   }
+   .footer-heading {
+      font-size: 36px;
+   }
+   .footer-blue{
+      justify-content: center;
+   }
+   .footer-bottom{
+      margin-bottom: 6px;
+   }
+   .footer-ip{
+      height: 30px;
+   }
+   .footer-btn{
+      height: 30px;
+      line-height: 30px;
+   }
+}
+@media (max-width:567px){
+   .header-bars{
+      width: 320px;
+   }
+}
